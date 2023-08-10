@@ -1,6 +1,7 @@
 <h1> Exploratory Data Analysis of Real Estate </a></h1>
 
 <h2>🏆 Состав команды: </h2>
+
 1. [Артур](https://github.com/articarti)
 2. [Амгалан](https://github.com/Amgalan077)
 3. [Илья](https://github.com/Teeryinc)
